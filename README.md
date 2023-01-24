@@ -19,7 +19,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/agostinhomarcia/cadastro-alunos?color=cc3333">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/cadastro-alunos?color=cc3333">
+<img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/cadastro-alunos?color=cc3333">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/cadastro-alunos?color=cc3333" /> 
 
