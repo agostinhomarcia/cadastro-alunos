@@ -48,7 +48,7 @@
 <h4 align="center">Cadastro Natação</h4>
 
 <p align="center">
-   <img src="src/img/cad.png" alt="cadastro" width="850"/>
+   <img src="src/img/tela-cad.gif" alt="cadastro" width="850"/>
 </p>
 
 
