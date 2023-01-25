@@ -34,7 +34,7 @@ button.canc{
         height:50px;
         border-radius: 50%;
         position:fixed;
-        top: 90vh;
+        top: 80vh;
         left: 80vw;
     }
     .button.mobile::before{
@@ -43,5 +43,6 @@ button.canc{
         font-size:2rem;
         width:100%;
         height:100%;
+        
     }
 }
